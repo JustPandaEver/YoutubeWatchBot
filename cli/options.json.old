@@ -1,0 +1,14 @@
+{
+    "views": 50,
+    "style": "direct",
+    "videos": ["zhWDdy_5v2w"],
+    "headless": false,
+    "concurrency": 5,
+    "browserPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "concurrencyInterval": 3,
+    "watchTime": "85%",
+    "proxies": [
+        "direct://",
+        "http://bloxxy213.asuscomm.com:31280"
+    ]
+}

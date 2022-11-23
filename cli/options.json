@@ -1,0 +1,14 @@
+{
+    "views": 50,
+    "style": "search",
+    "videos": ["pz8Gb0byukA"],
+    "headless": false,
+    "concurrency": 20,
+    "browserPath": "C:\\Users\\bloxx\\Desktop\\youtubeWatchBot\\chromium\\bin\\chrome.exe",
+    "concurrencyInterval": 10,
+    "watchTime": "85%",
+    "proxies": [
+        "direct://",
+        "http://bloxxy213.asuscomm.com:31280"
+    ]
+}
